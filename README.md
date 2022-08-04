@@ -6,7 +6,7 @@ Cuadernos de Jupyter para aprender los fundamentos de Python 🐍
 ## Contents
 
 #### Introducción
-- [Clase 1]()
+- [Clase 1](https://github.com/fer-aguirre/taller-python/blob/main/notebooks/introduction/clase1.ipynb)
     - cadenas: str
     - números enteros: int
     - números flotantes: float
@@ -33,7 +33,7 @@ Cuadernos de Jupyter para aprender los fundamentos de Python 🐍
     - bucles con for
     - función range()
 
-- [Clase 2]()
+- [Clase 2](https://github.com/fer-aguirre/taller-python/blob/main/notebooks/introduction/clase2.ipynb)
     - ejercicios con for
     - condicional if
     - diccionarios
