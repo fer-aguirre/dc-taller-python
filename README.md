@@ -43,6 +43,15 @@ Cuadernos de Jupyter para aprender los fundamentos de Python 🐍
         - get()
         - update()
         - pop()
+    
+- [Clase 3](https://github.com/fer-aguirre/taller-python/blob/main/notebooks/introduction/clase3.ipynb)
+    - nombres de variables
+    - bucles
+        - break
+        - continue
+        - else
+        - bucles anidados
+    - librerías
 
 ### Pandas
 - [-]()
